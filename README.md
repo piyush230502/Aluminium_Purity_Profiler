@@ -1,7 +1,10 @@
-# 📄✏ Sensor Fault Detection Project
-**Brief:** In electronics, a **wafer** (also called a slice or substrate) is a thin slice of semiconductor, such as a crystalline silicon (c-Si), used for the fabrication of integrated circuits and, in photovoltaics, to manufacture solar cells. The wafer serves as the substrate(serves as foundation for contruction of other components) for microelectronic devices built in and upon the wafer. 
+Aluminium rod quality refers to the characteristics and properties that determine the suitability of aluminium rods for various applications 
+- Strength-to-weight ratio: Aluminium rods are strong yet lightweight, making them ideal for applications where weight is a concern.
+- Corrosion resistance: Aluminium naturally resists corrosion, which makes it durable in harsh environments.
+- Machinability: Aluminium rods are easy to machine, allowing for precise shaping and cutting.
+- Thermal and electrical conductivity: Aluminium has excellent conductivity properties, making it useful in electrical and thermal applications.
+- Formability: Aluminium rods can be easily formed into various shapes without losing their strength.
 
-It undergoes many microfabrication processes, such as doping, ion implantation, etching, thin-film deposition of various materials, and photolithographic patterning. Finally, the individual microcircuits are separated by wafer dicing and packaged as an integrated circuit.
 
 #### Dataset is taken from Kaggle and stored in mongodb
 
